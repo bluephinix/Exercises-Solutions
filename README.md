@@ -112,3 +112,9 @@ directories, there is one subdirectory per
 exercise. Within each exercise subdirectory,
 there are further subdirectories for each
 implementation: C, C++ and Python.
+
+******
+further help at:
+https://handsonopencl.github.io/
+https://github.com/HandsOnOpenCL/Lecture-Slides/releases
+
